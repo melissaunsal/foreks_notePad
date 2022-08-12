@@ -153,6 +153,16 @@ namespace foreks_notePad.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap corner_widget {
+            get {
+                object obj = ResourceManager.GetObject("corner-widget", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap craft_star_origami_paper_creative_icon_226495 {
             get {
                 object obj = ResourceManager.GetObject("craft_star_origami_paper_creative_icon_226495", resourceCulture);
@@ -243,6 +253,46 @@ namespace foreks_notePad.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap list {
+            get {
+                object obj = ResourceManager.GetObject("list", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap notepad {
+            get {
+                object obj = ResourceManager.GetObject("notepad", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap notepad__1_ {
+            get {
+                object obj = ResourceManager.GetObject("notepad (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap notepad__1_1 {
+            get {
+                object obj = ResourceManager.GetObject("notepad (1)1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap paint_brush {
             get {
                 object obj = ResourceManager.GetObject("paint-brush", resourceCulture);
@@ -286,6 +336,16 @@ namespace foreks_notePad.Properties {
         internal static System.Drawing.Bitmap redo_1_icon_icons_com_62889 {
             get {
                 object obj = ResourceManager.GetObject("redo-1_icon-icons.com_62889", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap round_corner__1_ {
+            get {
+                object obj = ResourceManager.GetObject("round-corner (1)", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
